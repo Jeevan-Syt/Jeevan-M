@@ -10,10 +10,11 @@
  
  🔭 I’m currently building project using MySQL, SpringBoot, React.js
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker,Elasticsearch**
 
-💬 Ask me about **React.js,🍃Spring Boot, MySQL**
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💬 Ask me about **React.js,🍃Spring Boot, MySQL**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
